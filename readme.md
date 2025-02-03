@@ -40,12 +40,6 @@ Si tienes ideas para mejorar esta aplicación, ¡genial! Puedes hacerlo siguiend
 
 ---
 
-## 📜 Licencia
-
-Este proyecto está bajo la licencia **MIT**. Eso significa que puedes usarlo, modificarlo y compartirlo libremente. ¡Solo dame crédito si lo usas!
-
----
-
 ## 💌 Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:  
